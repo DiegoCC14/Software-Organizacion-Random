@@ -18,6 +18,5 @@ Proyecto desarrollado con la finalidad de implementar patrones de Disenio, Desar
 - Disenio : Diagramas/UML.io
 
 ## EJECUSION
-**1** - Instale librerias en su entorno de desarrollo: pip install > requirements.txt
-**2** - Ejecute main.py : python main.py
-
+- **1** - Instale librerias en su entorno de desarrollo: pip install > requirements.txt
+- **2** - Ejecute main.py : python main.py
